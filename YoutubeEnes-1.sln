@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiziArray", "DiziArray\Dizi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KullanıcanArrayAlmak", "KullanıcanArrayAlmak\KullanıcanArrayAlmak.csproj", "{0188A4F9-0599-41B2-9700-D26F1FD693F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KullanıcıdanAlınanDegerlerVarMı", "KullanıcıdanAlınanDegerlerVarMı\KullanıcıdanAlınanDegerlerVarMı.csproj", "{B44A69E4-7FCE-48CF-8852-5D665C8E7696}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{0188A4F9-0599-41B2-9700-D26F1FD693F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0188A4F9-0599-41B2-9700-D26F1FD693F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0188A4F9-0599-41B2-9700-D26F1FD693F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B44A69E4-7FCE-48CF-8852-5D665C8E7696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B44A69E4-7FCE-48CF-8852-5D665C8E7696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B44A69E4-7FCE-48CF-8852-5D665C8E7696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B44A69E4-7FCE-48CF-8852-5D665C8E7696}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
